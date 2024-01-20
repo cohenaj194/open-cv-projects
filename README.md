@@ -4,6 +4,8 @@
 
 1. **Facial Feature Art Project:** Students will create an artistic representation by detecting and manipulating facial features in images. This project emphasizes understanding facial recognition techniques in OpenCV.
 
+Made the window resizeable.
+
 2. **Dynamic Color Filtering Art:** This project involves creating art through dynamic color filtering. Students will learn to isolate and manipulate specific colors in images or video streams, showcasing creative uses of color segmentation.
 
 3. **Motion Capture Artistic Display:** Utilizing motion detection capabilities of OpenCV, students will create an artistic display that responds to motion, highlighting their understanding of motion tracking algorithms.
