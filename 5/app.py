@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from scipy.linalg import eigh 
 
-d0 = pd.read_csv('mnist_train.csv')
+d0 = pd.read_csv(r'C:\Users\MSTAM\OneDrive\Documents\GitHub\open-cv-projects\5\mnist_train.csv')
 
 print(d0.head(5)) # print first five rows of d0.
 
